@@ -9,6 +9,10 @@ Rocket Chat Python API library
 
 # Usage
 
+make sure you are using python 3
+install requirement with `sudo pip3 install -r requirements.txt`
+
+
 ```
 import RocketChatAPI
 
