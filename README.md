@@ -2,8 +2,10 @@
 Rocket Chat Python API library
 
 # Requirements
+ * Python 3
  * urllib3
  * pandas
+ * json
 
 # Usage
 
